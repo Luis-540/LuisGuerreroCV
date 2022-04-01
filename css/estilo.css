@@ -1,0 +1,175 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.content-center:hover #foto-perfil {-webkit-transform:scale(1.3);transform:scale(1.3);}
+.content-center {overflow:hidden;}
+
+
+#decargarCV{
+    color: gold;
+    font-size: 20px;
+    margin-left: 45%;
+    background-color: transparent !important;
+
+}
+a:hover{
+    background-color: #ec731e;
+
+}
+  
+#container{
+    background-image: url("/img/fondo2.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    justify-content: center;
+}
+#foto-perfil{
+    width: 300px;
+    height: 300px;
+    margin-top: 100px;
+}
+.descripcion{
+ text-align: justify;
+
+}
+#btn-descargar{
+    margin-left: 45%;
+}
+.progress-bar{
+    background-color: orangered;
+}
+
+#footer-facebook{
+    background-color:rgb(86, 175, 253);
+
+}
+#footer-google{
+    background-color: goldenrod;
+}
+#footer-instagram{
+    background-color:hotpink;
+}
+#contacto{
+    background-image: url("/img/fondo-contacto.png");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    justify-content: center;
+}
+#formulario{
+   margin-top: 50px;
+   margin-bottom: 50px;
+}
+#github, #linkedin{
+    background-color: rgb(255, 255, 255);
+}
+
+#input-nombre, #input-tema, #input-correo, #input-mensaje{
+    margin-left: 20px;
+    border-radius: 20px;
+    border-style:ridge;
+}
+#input-mensaje{
+    width: 95%;
+}
+
+#btn-contacto{
+   margin-left: 45%;
+}
+
+#logo1{
+    width: 260px;
+    height: 250px;
+    margin-top: 22px;
+    margin-left: 10px;
+}
+#logo2{
+    width: 230px;
+    height: 250px;
+    margin-top: 22px;
+    margin-left: 10px;
+}
+#logo3{width: 230px;
+    height: 250px;
+    margin-top: 22px;
+    margin-left: 10px;
+}
+
+
+#uaeh, #conalep{
+    height: 350px;
+    margin-top: 22px;
+    margin-left: 500px;
+
+}
+
+#carusel-educacion{
+    width: 550px;
+    height: 450px;
+    
+}
+#logoescuela1{
+    width: 520px;
+    height: 400px;
+    background-color: rgba(226, 13, 13, 0.2);
+}
+#logoescuela2{
+    width: 300px;
+    height: 400px;
+    background-color: rgba(1, 255, 1, 0.2);
+}
+#texto-educacion{
+    color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+#btnnext{
+    color:black;
+}
+#carusel-aptitudes{
+    width: 550px;
+    height: 450px;
+    
+
+}
+
+#logoiniciativa{
+    width: 300px;
+    height: 320px;
+}
+
+
+#refe1:hover{
+border-radius:50%;
+-webkit-border-radius:50%;
+box-shadow: 0px 0px 15px 15px #ec731e;
+-webkit-box-shadow: 0px 0px 15px 15px #ec731e;
+transform: rotate(360deg);
+-webkit-transform: rotate(360deg);
+}
+
+#logo-autocad{
+    width: 200px;
+    
+
+}
+#proyect3{
+    width: 260px;
+    height: 200px;
+}
+#proyect2{
+    width: 260px;
+    height: 180px;
+}
+#proyect1{
+    width: 270px;
+    height: 180px;
+}
+#referencias{
+    border-color: #ec731e;
+}
+
+
+
